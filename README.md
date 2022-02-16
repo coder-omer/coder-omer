@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there. I'm Omer. 👋
 
 <!--
 **coder-omer/coder-omer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning data science.
-👯 I’m looking to collaborate on data science projects.
-🤔 I’m looking for help with data science.
+⚡ I love math, programming, data science, and books
+🌱 I’m addicted to learning and growing every day
+🌱 currently learning data science
+👯 looking to collaborate on data science projects
+🤔 looking for help with data science learning
+
+[![Omer's github stats](https://github-readme-stats.vercel.app/api?username=khuyentran1401&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coder-omer)](https://github.com/coder-omer/github-readme-stats)
