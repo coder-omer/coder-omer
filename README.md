@@ -21,5 +21,3 @@ Here are some ideas to get you started:
 🤔 looking for help with data science learning
 
 [![Omer's github stats](https://github-readme-stats.vercel.app/api?username=coder-omer&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/coder-omer/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coder-omer)](https://github.com/coder-omer/github-readme-stats)
