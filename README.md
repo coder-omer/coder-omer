@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 👯 looking to collaborate on data science projects
 🤔 looking for help with data science learning
 
-[![Omer's github stats](https://github-readme-stats.vercel.app/api?username=coder-omer1401&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/coder-omer/github-readme-stats)
+[![Omer's github stats](https://github-readme-stats.vercel.app/api?username=coder-omer&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/coder-omer/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coder-omer)](https://github.com/coder-omer/github-readme-stats)
