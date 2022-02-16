@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱 I’m currently learning data science.
+👯 I’m looking to collaborate on data science projects.
+🤔 I’m looking for help with data science.
