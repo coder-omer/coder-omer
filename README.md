@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m addicted to learning and growing every day
 - 🌱 currently learning data science
 - 👯 looking to collaborate on data science projects
-- 🤔 looking for help with data science learning
+- 🤔 unfollowers will be unfollowed when understood
 
 
 
